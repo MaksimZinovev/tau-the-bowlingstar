@@ -12,7 +12,8 @@ Update 1\
 Update 2 - remote edit\
 Update 3 - test stash\
 test3-lisa-rebase\
-Test5-isa-amend - fixed
-Test6-lisa-rewrite-history
-Test7-lisa-rewrite-history
-test8-jessica-resolve-conflict
+Test5-isa-amend - fixed\
+Test6-lisa-rewrite-history\
+Test7-lisa-rewrite-history\
+Test8-jessica-resolve-conflict\
+Test9-lisa-resolve-conflict
