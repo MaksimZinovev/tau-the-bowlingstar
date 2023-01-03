@@ -16,4 +16,5 @@ Test5-isa-amend - fixed\
 Test6-lisa-rewrite-history\
 Test7-lisa-rewrite-history\
 Test8-jessica-resolve-conflict\
-Test9-lisa-resolve-conflict
+Test9-lisa-resolve-conflict\
+Test9-lisa-resolve-conflict-rebasing
