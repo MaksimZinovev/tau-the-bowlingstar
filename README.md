@@ -15,3 +15,4 @@ test3-lisa-rebase\
 Test5-isa-amend - fixed
 Test6-lisa-rewrite-history
 Test7-lisa-rewrite-history
+test8-jessica-resolve-conflict
