@@ -17,4 +17,5 @@ Test6-lisa-rewrite-history\
 Test7-lisa-rewrite-history\
 Test8-jessica-resolve-conflict\
 Test9-lisa-resolve-conflict\
-Test9-lisa-resolve-conflict-rebasing
+Test9-lisa-resolve-conflict-rebasing\
+Test10-jessica-remote-cherry-picking
